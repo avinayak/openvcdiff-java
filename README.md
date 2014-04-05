@@ -1,8 +1,9 @@
-openvcdiff-java
+```
+                          openvcdiff-java
+                          ===============
 
-this is a Java Native Interface to the non-streaming 
-vcdiff library by Google
+This is a Java Native Interface to the non-streaming open-vcdiff library by Google
+compiling an building requires open-vcdiff and jdk pre-built
+currently not cross-platform.
 
-compiling an building requires open-vcdiff and jdk preintsalled
-
-currently not cross-platform
+```
